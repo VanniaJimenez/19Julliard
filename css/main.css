@@ -1,0 +1,129 @@
+/* Inserta tu codigo aqui */
+.primerf {
+			background-image: url(../img/dance_1.jpg); 
+			height:500px;
+		  }
+.segundof {
+			background-image: url(../img/textura_2.jpg); 
+			height: 400px; 
+			margin-top: -67px;
+		  }
+.alineado {
+			width: 1336px;
+			margin-top: 2px;
+}
+.fondotres {
+			 background-color: #051046; 
+			 height: 400px; 
+			 margin-top: -60px;
+			}
+.tamaño {
+		height: 65px;
+		}
+
+
+.studio {
+	font-family: DolceVita;
+	color: #DDDBDB;
+	font-size: 70px;
+	margin-left: 95px;
+	margin-top: 70px;
+}
+.letra {
+	color: #DDDBDB;
+	margin-left: 95px;
+	margin-top: 30px;
+}
+.af {border: none;
+	  height:40px;
+	  width: 135px;
+	  margin-left: 95px;
+	  margin-top: 40px;
+	 font-size: 16px;
+	 text-decoration: none;
+	 background-color: #000019;
+	 color: white;
+}
+
+.intro {text-align: center;
+		font-size: 25px;
+		margin-top: 70px;
+}
+.decoracion {
+			width: 150px;
+			height: 150px;
+			margin-left: 580px;
+			margin-top: -30px;
+}
+.azulito {
+		  border:none;
+		  height: 50px;
+		  width: 270px;
+		  margin-left: 520px;
+		  margin-top: -35px;
+		  margin-bottom: 65px;
+		  font-size: 16px;
+		  color: white;
+		  background-color: #001859;
+		  border-radius: 5px;
+}
+.dosima {
+		 height:380px;
+		 width:680px;  
+		 border-style: solid;
+		 border-color: #001859;
+		 margin-top:-50px;
+
+}
+
+.imados {width:660px;}
+
+.nuestrosin {
+		   border:none;
+		   height: 60px;
+		   width: 440px;
+		   margin-left: 450px;
+		   position: relative;
+		   bottom: 65px;
+		   background-color: #001859;
+		   font-size: 16px;
+		   color: white;
+}
+.poema {
+	font-size: 50px;
+	text-align: center;
+	color:#001859;
+	margin-top: 60px;
+}
+.finblanco {
+			 color: #DDDBDB;
+			 margin-left: 65px; 
+			 margin-top: 60px;
+			 font-size: 14px;
+
+}
+.visitanos {
+			color: #DDDBDB;
+			 margin-left: 65px; 
+			 margin-top: 60px;
+}
+.set {
+		color: #DDDBDB;
+		 margin-left: 65px; 
+		 font-size: 14px;
+}
+.bordes {margin-top: 60px;}
+
+
+
+
+
+
+
+
+
+
+.fin {
+	color:lightgray;
+	margin-top:20px; 
+}

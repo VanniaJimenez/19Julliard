@@ -1,0 +1,79 @@
+/* Inserta tu codigo aqui */
+.fondogris {
+			background-color: #B3B3B3;
+			height: 1050px;
+}
+.im {
+	background-image: url(../img/dance_12.jpg);
+		height: 400px; 
+		width: 300px;
+		margin-left: 180px;
+		margin-top: 60px;
+		padding-top: 70px;
+
+}
+.ima {
+	background-image: url(../img/breakdance.jpg);
+		height: 400px;
+		width: 300px;
+		margin-top: 60px;
+		margin-left:80px;
+		padding-top: 70px;
+
+}
+.imag {background-image: url(../img/lirical-jazz.jpg);
+		height: 400px;
+		width: 300px;
+		margin-top: 60px;
+		padding-top: 70px;
+
+	}
+
+.image {
+
+	background-image: url(../img/arabe.jpg);
+		height: 400px; 
+		width: 300px;
+		margin-left: 180px;
+		margin-top: 60px;
+		padding-top: 70px;
+
+}
+
+.imagen {
+	background-image: url(../img/little.jpg);
+		height: 400px;
+		width: 300px;
+		margin-top: 60px;
+		margin-left:80px;
+		padding-top: 70px;
+
+}
+
+.imagenes {
+	background-image: url(../img/yoga.jpg);
+		height: 400px;
+		width: 300px;
+		margin-top: 60px;
+		padding-top: 70px;
+
+	}
+.tamaño {
+
+		height: 80px;
+}
+
+.cajagris {
+				width: 240px; 
+				height: 190px;
+				background-color: black;
+				opacity: 0.5;
+				margin-left: 30px;
+
+}
+
+.bal {
+	 text-align: center;
+	 color: white;
+	 margin-top: 30px;
+}

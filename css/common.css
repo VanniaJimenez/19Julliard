@@ -1,0 +1,86 @@
+.fondobai {
+		background-image: url(../img/shoes_!.jpg); 
+		height: 480px;
+		background-repeat: no-repeat;
+		 background-position: right;
+		 
+ }
+ .contactanos {
+				font-size: 25px; 
+				color: #001859;
+				margin-top:20px;
+				margin-bottom: 20px;
+				margin-left: 160px;
+}
+.man {
+		background-image: url(../img/male.png);
+		background-position: left;
+		background-repeat:no-repeat;
+}
+
+
+.sobre { 
+		background-image: url(../img/sobre.png);
+		background-position: left;
+		background-repeat:no-repeat;
+}
+.lapiz{
+		background-image: url(../img/pencil.png);
+		background-position: left;
+		background-repeat:no-repeat;
+}
+input { 
+		width: 380px;
+		margin: 10px;
+		height: 40px;
+		text-align: center;
+		border-style: solid;
+		border-color: #E3E4DB;
+		margin-left: 160px;
+		color:#E3E4DB;
+}
+.mensaje {
+		height: 100px;
+}
+
+.tres {
+		  border:none;
+		  height: 50px;
+		  width: 380px;
+		  margin-left: 160px;
+		  margin-top: 15px;
+		  margin-bottom: 65px;
+		  font-size: 16px;
+		  color: white;
+		  background-color: #001859;
+		  border-radius: 5px;
+}
+
+a {
+	text-decoration: none; 
+	
+}
+li {
+	display:inline-block;
+
+	}
+
+.prueba {
+		color: gray;
+		margin-left: 150px;
+}
+
+.pruebam {
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.san {
+	color:lightgray;
+	margin-top:20px; 
+}
+.seacabo {
+			 background-color: #051046; 
+			 height: 200px; 
+			 margin-top: -60px;
+			}

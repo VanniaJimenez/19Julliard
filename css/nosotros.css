@@ -1,0 +1,60 @@
+.fondouno {
+			background-image: url(../img/dance_7.jpg);
+			height: 450px;
+}
+.fondodos {
+			background-image: url(../img/cubes.png);
+			height: 300px;
+}
+
+.fondotexto { 
+				width: 550px; 
+				height: 190px;
+				background-color: black;
+				opacity: 0.5;
+				margin-top: 200px;
+				margin-left: 350px; 
+
+				}
+.blancos {
+			color:white;
+			text-align: center;
+			padding: 15px;
+}
+.pilar {
+		padding: 20px;
+		text-align: center;
+		color: #B3B3B3;
+}
+
+hr {
+	width: 180px;
+	margin-left: 120px;
+	border-color: #B3B3B3;
+}
+.ins {
+	text-align: center;
+	 font-size:18px;
+	 height: 200px;
+	 margin-top: 100px;
+	  }
+.imgins {
+			width: 280px; 
+			height: 200px;
+			margin: 15px 0px 20px 30px;
+}
+h3 {
+	 text-align: center;
+	 color: #B3B3B3;
+}
+.des {
+	 text-align: center; 
+	 color: #B3B3B3;
+}
+
+.cursi {
+	text-align: center; 
+	font-size: 50px;
+	margin-top: 50px;
+}
+
